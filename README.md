@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha1130&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha1130" /> </p>
 
-- 🌱 I’m currently learning **Learning TypeScript & Python || Participant in GIAIC on-site || I am a Passionate Learner and a Hardworker Web Designer.I Love to Create Dynamic Websites Using Html,Css and JavaScript.**
+- 🌱 I’m currently learning **Learning Python || Participant in GIAIC On-Site & PIAIC On-Site || Passionate Learner & Hardworking Web Designer. I love creating dynamic websites using HTML, CSS, Tailwind CSS, TypeScript, and Next.js.**
 
 - 📫 How to reach me **ayeshaiqbal771@gmail.com**
 
-- ⚡ Fun fact **I am a responsible person in question.**
+- ⚡ Fun fact **Sometimes, I try new frameworks just to get that 'New Tech Stack' feeling!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
