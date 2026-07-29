@@ -1,4 +1,4 @@
-![Banner](https://github.com/Ayesha1130/Ayesha1130/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
+![Banner](https://github.com/Ayesha1130/Ayesha1130/blob/main/github-banner.png?raw=true)
 
 <h1 align="center">
 Hi 👋 I'm Ayesha Iqbal
@@ -146,7 +146,7 @@ OpenAI API • Gemini API • AI Automation • Prompt Engineering
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:ayeshaiqbal771@gmail.com">
+<a href="mailto:ayeshaiqbal.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
