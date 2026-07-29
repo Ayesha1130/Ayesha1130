@@ -1,4 +1,6 @@
-![Banner](https://github.com/Ayesha1130/Ayesha1130/blob/main/github-banner.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Ayesha1130/Ayesha1130/blob/main/github-banner.png?raw=true" alt="Ayesha Iqbal Banner" width="100%">
+</p>
 
 <h1 align="center">
 Hi 👋 I'm Ayesha Iqbal
@@ -154,7 +156,7 @@ OpenAI API • Gemini API • AI Automation • Prompt Engineering
 
 📧 **Email**
 
-ayeshaiqbal771@gmail.com
+ayeshaiqbal.dev@gmail.com
 
 💼 **LinkedIn**
 
