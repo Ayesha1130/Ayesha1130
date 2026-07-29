@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Ayesha1130/Ayesha1130/blob/main/github-banner-2026.png?raw=true" width="100%" alt="Ayesha Iqbal Banner">
-</p>
+ <img src="https://github.com/Ayesha1130/Ayesha1130/blob/main/github-banner-2026.png?raw=true" width="100%" alt="Ayesha Iqbal Banner">
+
 
 <h1 align="center">
 Hi 👋 I'm Ayesha Iqbal
