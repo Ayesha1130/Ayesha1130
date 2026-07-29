@@ -1,45 +1,175 @@
-![logo](https://github.com/Ayesha1130/Ayesha1130/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
+![Banner](https://github.com/Ayesha1130/Ayesha1130/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Ayesha Iqbal</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">
+Hi 👋 I'm Ayesha Iqbal
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha1130&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha1130" /> </p>
+<h3 align="center">
+Full Stack Web Developer • AI Engineer
+</h3>
 
-- 🌱 I’m currently learning **Learning Python || Participant in GIAIC On-Site & PIAIC On-Site || Passionate Learner & Hardworking Web Designer. I love creating dynamic websites using HTML, CSS, Tailwind CSS, TypeScript, Next.js and python.**
-
-- 📫 How to reach me **ayeshaiqbal771@gmail.com**
-
-- ⚡ Fun fact **Sometimes, I try new frameworks just to get that 'New Tech Stack' feeling!.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayesha-iqbal-2613402b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayesha-iqbal-2613402b4/" height="30" width="40" /></a>
+<p align="center">
+Building Modern Web Applications with AI Integration
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ayesha1130&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Ayesha1130?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Ayesha1130?affiliations=OWNER&style=for-the-badge" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha1130&show_icons=true&locale=en&layout=compact" alt="ayesha1130" /></p>
+---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesha1130&show_icons=true&locale=en" alt="ayesha1130" /></p>
+# 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha1130&" alt="ayesha1130" /></p>
+I'm a **Full Stack Web Developer** passionate about creating modern, responsive and scalable web applications.
+
+I specialize in building high-performance websites using modern technologies while integrating Artificial Intelligence to create smarter digital experiences.
+
+- 🚀 Building Modern Web Applications
+- 🤖 AI Integration & Automation
+- 🌐 Responsive Website Development
+- ⚡ Clean UI / UX
+- 💼 Open to Freelance & Remote Opportunities
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Python
+- AI Engineering
+- LLM Applications
+- Backend Development
+- Cloud Deployment
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+</p>
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+OpenAI API • Gemini API • AI Automation • Prompt Engineering
+
+---
+
+# 🚀 What I Build
+
+✅ Modern Business Websites
+
+✅ E-Commerce Platforms
+
+✅ Portfolio Websites
+
+✅ AI Powered Web Apps
+
+✅ Landing Pages
+
+✅ Admin Dashboards
+
+✅ Responsive UI
+
+✅ API Integrations
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayesha1130&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha1130&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ayesha1130&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha1130&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayesha1130&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ayesha-iqbal-2613402b4/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:ayeshaiqbal771@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</p>
+
+📧 **Email**
+
+ayeshaiqbal771@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/ayesha-iqbal-2613402b4/
+
+---
+
+# 💬 Quote
+
+> "Code with purpose. Build with passion. Innovate with AI."
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider following my GitHub profile.
+
+</p>
