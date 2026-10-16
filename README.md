@@ -161,7 +161,7 @@ ayeshaiqbal.dev@gmail.com
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/ayesha-iqbal-2613402b4/
+https://www.linkedin.com/in/ayesha-iqbal-dev/
 
 ---
 
@@ -171,8 +171,3 @@ https://www.linkedin.com/in/ayesha-iqbal-2613402b4/
 
 ---
 
-<p align="center">
-
-⭐ If you like my work, consider following my GitHub profile.
-
-</p>
