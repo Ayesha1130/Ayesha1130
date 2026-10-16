@@ -8,7 +8,7 @@ Hi 👋 I'm Ayesha Iqbal
 </h1>
 
 <h3 align="center">
-Full Stack Web Developer • AI Engineer
+Full-Stack AI Engineer
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ Building Modern Web Applications with AI Integration
 
 # 👩‍💻 About Me
 
-I'm a **Full Stack Web Developer** passionate about creating modern, responsive and scalable web applications.
+I'm a **Full-Stack AI Engineer** passionate about creating modern, responsive and scalable web applications.
 
 I specialize in building high-performance websites using modern technologies while integrating Artificial Intelligence to create smarter digital experiences.
 
